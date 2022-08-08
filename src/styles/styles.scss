@@ -1,0 +1,10 @@
+body {
+  background-color: red;
+  & p {
+    background-color: blue;
+  }
+}
+
+a {
+  text-decoration: none;
+}
